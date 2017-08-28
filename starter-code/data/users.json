@@ -10,3 +10,12 @@
 	},
 	"shoppingCart": []
 }
+
+{   "firstName": "MAnuel",
+	   "lastName": "Cabrera",
+		    "dateBirth": ISODate("1990-12-10T18:28:09.369Z"),
+				   "address": {     "streetAddress": "20 2nd Street",
+						      "city": "Miami",     "state": "fl",
+									     "postalCode": "33021"
+											   }
+											  }
